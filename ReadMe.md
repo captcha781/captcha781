@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Metadiac Technologies as Junior Web Developer - MERN
+I’m currently working on Pente AI as Full Stack Engineer.
 
 
 ## 🌐 Socials:
